@@ -166,7 +166,7 @@ const Tetris = () => {
 
   return (
     <div style={{ textAlign: "center", marginTop: "20px" }}>
-      <h1>{gameOver ? "Game Over" : "Tetris"}</h1>
+      <h1>{gameOver ? "Game Over" : "Russian Tetris"}</h1>
       <div
         style={{
           display: "grid",
